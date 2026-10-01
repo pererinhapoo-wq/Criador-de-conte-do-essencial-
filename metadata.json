@@ -1,0 +1,6 @@
+{
+  "name": "Studio Criador — Presença Digital",
+  "description": "Site oficial e presença digital centralizada para criadores de conteúdo: projetos em destaque, plataformas, últimos lançamentos e contato direto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
